@@ -1,0 +1,29 @@
+1) O valor da variável SOMA será 91.
+O código realiza um loop enquanto K for menor que 13, incrementando K a cada iteração e adicionando seu valor atual à variável SOMA. 
+Portanto, a SOMA será igual à soma de todos os números de 1 a 13, que é igual a 91.
+
+3)
+a) Adicionar 2 a cada número. Portanto, o próximo elemento é 9.
+
+b) Multiplicar cada número por 2. Portanto, o próximo elemento é 128.
+
+c) Adicionar o próximo número ímpar a cada termo. Portanto, o próximo elemento é 49.
+
+d) A lógica é o próximo número par elevado ao quadrado. Portanto, o próximo elemento é 100.
+
+e) A lógica é somar os dois últimos números da sequência para obter o próximo. Portanto, o próximo elemento é 13.
+
+f) A lógica não é clara a partir dos primeiros termos, então é difícil determinar o próximo elemento com base apenas neles. Pode haver várias possibilidades.
+
+4)
+Sabemos que a distância entre Ribeirão Preto e Franca é de 100 km, e eles estão se aproximando um do outro a uma taxa combinada de 110 km/h + 80 km/h = 190 km/h. Portanto, eles se encontrarão após:
+
+tempo = distância / velocidade
+tempo = 100 km / 190 km/h
+tempo = 0,5263 horas
+
+Agora, precisamos descobrir qual veículo estará mais próximo de Ribeirão Preto no momento em que se cruzarem. Vamos calcular a distância que cada veículo percorreu até esse ponto:
+
+O carro percorreu 110 km/h x 0,5263 h = 57,89 km
+O caminhão percorreu 80 km/h x 0,5263 h = 42,11 km
+Portanto, quando se encontrarem, o carro estará mais próximo de Ribeirão Preto, já que percorreu menos distância. Note que os pedágios não afetam essa conclusão, pois mesmo com a diferença de tempo gasto pelo caminhão nos pedágios, ele ainda percorre menos distância até o ponto de encontro.
